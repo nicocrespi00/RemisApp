@@ -1,0 +1,13 @@
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.exe
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.deps.json
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.runtimeconfig.json
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.dll
+C:\Users\Nico\Desktop\RemisApp\bin\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.pdb
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.AssemblyInfo.cs
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.dll
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.pdb
+C:\Users\Nico\Desktop\RemisApp\obj\Debug\netcoreapp3.1\Miercoles.Crespi.Nicolas.genruntimeconfig.cache

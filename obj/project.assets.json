@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nico\\source\\repos\\Miercoles.Crespi.Nicolas\\Miercoles.Crespi.Nicolas.csproj",
+      "projectUniqueName": "C:\\Users\\Nico\\Desktop\\RemisApp\\Miercoles.Crespi.Nicolas.csproj",
       "projectName": "Miercoles.Crespi.Nicolas",
-      "projectPath": "C:\\Users\\Nico\\source\\repos\\Miercoles.Crespi.Nicolas\\Miercoles.Crespi.Nicolas.csproj",
+      "projectPath": "C:\\Users\\Nico\\Desktop\\RemisApp\\Miercoles.Crespi.Nicolas.csproj",
       "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nico\\source\\repos\\Miercoles.Crespi.Nicolas\\obj\\",
+      "outputPath": "C:\\Users\\Nico\\Desktop\\RemisApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
